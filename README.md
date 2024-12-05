@@ -1,4 +1,7 @@
 # ISO
 ISO
 
-`sudo mkarchiso -v -w ~/iso/steavenlinux/output/ -o ~/iso/steavenlinux/output/ ~/iso/steavenlinux/releng/`
+```sh
+archiso
+sudo mkarchiso -v -w output/ -o output/ releng/
+```
