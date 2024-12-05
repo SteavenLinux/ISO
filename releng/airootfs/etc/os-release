@@ -1,0 +1,13 @@
+NAME="SteavenLinux"
+PRETTY_NAME="SteavenLinux"
+ID=SteavenLinux
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://github.com/SteavenLinux/"
+DOCUMENTATION_URL="https://github.com/SteavenLinux/"
+SUPPORT_URL="https://discord.gg/G8cSyTj6er/"
+BUG_REPORT_URL="https://github.com/SteavenLinux"
+PRIVACY_POLICY_URL="https://terms.archlinux.org/docs/privacy-policy/"
+LOGO=steavenlinux
+
