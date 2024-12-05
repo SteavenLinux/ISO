@@ -2,6 +2,6 @@
 ISO
 
 ```sh
-archiso
+sudo pacman -S archiso
 sudo mkarchiso -v -w output/ -o output/ releng/
 ```
