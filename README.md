@@ -1,5 +1,5 @@
-# ISO
-ISO
+# SteavenLinuxISO
+SteavenLinuxISO
 
 ```sh
 sudo pacman -S archiso
